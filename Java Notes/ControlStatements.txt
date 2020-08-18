@@ -1,0 +1,15 @@
+The most basic control flow statement supported by the Java programming language is the if-then statement.
+
+The switch statement allows for any number of possible execution paths.
+
+The do-while statement is similar to the while statement, but evaluates its expression at the bottom of the loop.
+
+Question: How do you write an infinite loop using the for statement?
+Answer:
+for ( ; ; ) {
+}
+
+Question: How do you write an infinite loop using the while statement?
+Answer:
+while (true) {
+}
